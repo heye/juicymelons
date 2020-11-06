@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <packageId>heye.jucymelons</packageId>
+  <name>Jucy Melons</name>
+  <author>the_heye</author>
+  <description>Adds a new body 'Melons'</description>
+  <supportedVersions>
+    <li>1.2</li>
+  </supportedVersions>
+</ModMetaData>
